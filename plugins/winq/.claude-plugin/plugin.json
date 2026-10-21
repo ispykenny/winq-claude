@@ -7,6 +7,16 @@
     "url": "https://winq.ai"
   },
   "homepage": "https://winq.ai",
+  "privacyPolicyUrl": "https://winq.ai/privacy",
   "license": "MIT",
-  "keywords": ["social-media", "scheduling", "instagram", "linkedin", "tiktok", "x", "threads", "bluesky"]
+  "keywords": [
+    "social-media",
+    "scheduling",
+    "instagram",
+    "linkedin",
+    "tiktok",
+    "x",
+    "threads",
+    "bluesky"
+  ]
 }
