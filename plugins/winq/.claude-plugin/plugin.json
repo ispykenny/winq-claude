@@ -1,0 +1,12 @@
+{
+  "name": "winq",
+  "version": "1.0.0",
+  "description": "Plan, write and schedule social media posts with your Winq workspace: drafts, scheduling, insights, best times, brand voice and Files.",
+  "author": {
+    "name": "Winq",
+    "url": "https://winq.ai"
+  },
+  "homepage": "https://winq.ai",
+  "license": "MIT",
+  "keywords": ["social-media", "scheduling", "instagram", "linkedin", "tiktok", "x", "threads", "bluesky"]
+}

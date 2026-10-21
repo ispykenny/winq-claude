@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "winq": {
+      "type": "http",
+      "url": "https://api.winq.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "winq",
+  "owner": {
+    "name": "Winq",
+    "url": "https://winq.ai"
+  },
+  "metadata": {
+    "description": "Winq's plugins for Claude Code: plan, write and schedule your team's social posts."
+  },
+  "plugins": [
+    {
+      "name": "winq",
+      "source": "./plugins/winq",
+      "description": "Plan, write and schedule social media posts with your Winq workspace.",
+      "category": "productivity",
+      "keywords": ["social-media", "scheduling", "instagram", "linkedin", "tiktok", "x", "threads", "bluesky"]
+    }
+  ]
+}
