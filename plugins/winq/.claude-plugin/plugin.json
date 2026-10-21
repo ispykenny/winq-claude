@@ -7,7 +7,11 @@
     "url": "https://winq.ai"
   },
   "homepage": "https://winq.ai",
+  "repository": "https://github.com/ispykenny/winq-claude",
+  "documentationUrl": "https://github.com/ispykenny/winq-claude#readme",
   "privacyPolicyUrl": "https://winq.ai/privacy",
+  "termsOfServiceUrl": "https://winq.ai/terms",
+  "supportUrl": "https://winq.ai/support",
   "license": "MIT",
   "keywords": [
     "social-media",
